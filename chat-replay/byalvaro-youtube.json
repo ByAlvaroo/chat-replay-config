@@ -62,7 +62,7 @@
   "soundLoad": true,
   "driveFolder": "https://drive.google.com/drive/folders/1e4McCbhZCZQksGsXxfPzNfUtCq9P8EgP",
   "driveAuto": true,
-  "driveAutoScore": 0.75,
+  "driveAutoScore": 1,
   "fetchThird": true,
   "storageLimit": 1024
  },
@@ -102,6 +102,6 @@
    "k": 1794317698809
   }
  },
- "rev": 2,
- "at": 1794317702813
+ "rev": 3,
+ "at": 1794317708661
 }
