@@ -38,8 +38,9 @@
   "showGraph": false,
   "pauseOnHover": false,
   "fsLite": true,
+  "listBadges": true,
   "ytHeatmap": false,
-  "bookmarks": false,
+  "bookmarks": true,
   "emoteCombo": false,
   "comboMin": 12,
   "autoSync": true,
@@ -104,7 +105,7 @@
     }
    ],
    "t": "SUPERVIVENCIA EN EL DESIERTO 🐪 - DayZ Badlands ft. Andrés",
-   "k": 1794318164503
+   "k": 1794323592032
   },
   "DnZI4hErCho": {
    "s": {
@@ -192,6 +193,6 @@
    "k": 1794317698809
   }
  },
- "rev": 7,
- "at": 1794318168508
+ "rev": 1,
+ "at": 1794323646214
 }
