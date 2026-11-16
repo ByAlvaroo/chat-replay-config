@@ -54,7 +54,7 @@
   "showRoleSub": true,
   "showRoleOther": true,
   "showEmoteOnly": true,
-  "hideNotices": true,
+  "hideNotices": false,
   "soundOn": true,
   "soundVol": 0.5,
   "soundUi": true,
@@ -198,6 +198,6 @@
    "k": 1794323691102
   }
  },
- "rev": 12,
- "at": 1794846627445
+ "rev": 13,
+ "at": 1794846634105
 }
