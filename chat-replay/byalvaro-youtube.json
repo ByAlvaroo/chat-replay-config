@@ -65,7 +65,7 @@
   "driveAuto": true,
   "driveAutoScore": 1,
   "fetchThird": true,
-  "storageLimit": 1024
+  "storageLimit": 5120
  },
  "overlay": {
   "h": 0.76,
@@ -198,6 +198,6 @@
    "k": 1794323691102
   }
  },
- "rev": 13,
- "at": 1794846634105
+ "rev": 14,
+ "at": 1794846683297
 }
