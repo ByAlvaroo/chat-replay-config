@@ -44,7 +44,7 @@
   "emoteCombo": false,
   "comboMin": 12,
   "autoSync": true,
-  "highlightWords": "",
+  "highlightWords": "byalvaor0o",
   "blockedWords": "",
   "blockedUsers": "",
   "hideBots": false,
@@ -198,6 +198,6 @@
    "k": 1794323691102
   }
  },
- "rev": 11,
- "at": 1794846610202
+ "rev": 12,
+ "at": 1794846627445
 }
