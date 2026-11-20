@@ -30,8 +30,8 @@
   "autoHideHeader": true,
   "ghostChat": false,
   "perfPreset": "custom",
-  "fps": 30,
-  "maxMessages": 500,
+  "fps": 24,
+  "maxMessages": 180,
   "maxPerSecond": 0,
   "smoothScroll": true,
   "animatedEmotes": true,
@@ -300,6 +300,6 @@
    "k": 1794846734994
   }
  },
- "rev": 9,
- "at": 1795200857320
+ "rev": 10,
+ "at": 1795200913749
 }
