@@ -31,7 +31,7 @@
   "ghostChat": false,
   "perfPreset": "custom",
   "fps": 30,
-  "maxMessages": 150,
+  "maxMessages": 500,
   "maxPerSecond": 0,
   "smoothScroll": true,
   "animatedEmotes": true,
@@ -300,6 +300,6 @@
    "k": 1794846734994
   }
  },
- "rev": 8,
- "at": 1795200852857
+ "rev": 9,
+ "at": 1795200857320
 }
