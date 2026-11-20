@@ -32,7 +32,7 @@
   "perfPreset": "custom",
   "fps": 24,
   "maxMessages": 180,
-  "maxPerSecond": 10,
+  "maxPerSecond": 0,
   "smoothScroll": true,
   "animatedEmotes": true,
   "showGraph": false,
@@ -300,6 +300,6 @@
    "k": 1794846734994
   }
  },
- "rev": 14,
- "at": 1795201045220
+ "rev": 15,
+ "at": 1795201051373
 }
