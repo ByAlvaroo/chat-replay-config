@@ -53,8 +53,8 @@
   "showRoleStreamer": true,
   "showRoleMod": true,
   "showRoleVip": true,
-  "showRoleSub": false,
-  "showRoleOther": false,
+  "showRoleSub": true,
+  "showRoleOther": true,
   "showEmoteOnly": true,
   "hideNotices": true,
   "soundOn": true,
@@ -300,6 +300,6 @@
    "k": 1794846734994
   }
  },
- "rev": 6,
- "at": 1795200800202
+ "rev": 7,
+ "at": 1795200808526
 }
