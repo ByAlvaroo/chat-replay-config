@@ -19,6 +19,8 @@
   "uiFont": "sans",
   "motion": "system",
   "showCredits": true,
+  "advanced": false,
+  "keys": null,
   "enabled": true,
   "autoOpen": false,
   "mode": "sidebar",
@@ -41,6 +43,7 @@
   "listBadges": true,
   "updCheck": true,
   "updRepo": "ByAlvaroo/CHAT-DE-YT",
+  "updMode": "ask",
   "ytHeatmap": false,
   "bookmarks": true,
   "emoteCombo": false,
@@ -300,6 +303,6 @@
    "k": 1794846734994
   }
  },
- "rev": 15,
- "at": 1795201051373
+ "rev": 16,
+ "at": 1795202156126
 }
