@@ -29,7 +29,7 @@
   "textShadow": true,
   "autoHideHeader": true,
   "ghostChat": false,
-  "perfPreset": "balanced",
+  "perfPreset": "custom",
   "fps": 30,
   "maxMessages": 150,
   "maxPerSecond": 0,
@@ -300,6 +300,6 @@
    "k": 1794846734994
   }
  },
- "rev": 7,
- "at": 1795200808526
+ "rev": 8,
+ "at": 1795200852857
 }
