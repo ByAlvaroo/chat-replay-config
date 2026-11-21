@@ -19,7 +19,7 @@
   "uiFont": "sans",
   "motion": "system",
   "showCredits": true,
-  "advanced": false,
+  "advanced": true,
   "keys": null,
   "enabled": true,
   "autoOpen": false,
@@ -303,6 +303,6 @@
    "k": 1794846734994
   }
  },
- "rev": 16,
- "at": 1795202156126
+ "rev": 17,
+ "at": 1795253648758
 }
