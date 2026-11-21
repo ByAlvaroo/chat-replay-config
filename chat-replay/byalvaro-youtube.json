@@ -258,23 +258,32 @@
    "s": {
     "cuts": [],
     "delta": 0,
-    "mode": "auto",
+    "mode": "start",
+    "parts": [
+     {
+      "to": 231.35
+     },
+     {
+      "off": -13815.52,
+      "to": 14046.87
+     }
+    ],
     "warnOff": true
    },
    "r": [
     {
      "type": "drive",
-     "id": "17m-kwapxXy32rTA6Bw_51wAH0AC0_-SB",
-     "name": "Historia del entretenimiento 🦩 - Grand Theft Auto VI #1 [[parte 1]].json"
+     "id": "1_0OMTmmzkgR4ZDEM1kXtFBdHSWPAlHDZ",
+     "name": "Historia del entretenimiento 🦩 - Grand Theft Auto VI #1[[parte 1]].json"
     },
     {
      "type": "drive",
-     "id": "1cRD7FwArDLNcvuni79-Zrc0duICUsys8",
-     "name": "Historia del entretenimiento 🦩 - Grand Theft Auto VI #1 [[parte 2]].json"
+     "id": "1NTzygskrGs1tPxEqbA4jG7VNHEiAiBh9",
+     "name": "Historia del entretenimiento 🦩 - Grand Theft Auto VI #1[[parte 2]].json"
     }
    ],
    "t": "HISTORIA DEL ENTRETENIMIENTO 🦩 - Grand Theft Auto VI #1",
-   "k": 1795267643043
+   "k": 1795112602938
   },
   "wm-frtK0ThA": {
    "s": {
@@ -294,6 +303,6 @@
    "k": 1794846734994
   }
  },
- "rev": 20,
- "at": 1795267756138
+ "rev": 21,
+ "at": 1795268816766
 }
